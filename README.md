@@ -16,7 +16,7 @@ The result of this profound journey is CourseBlock, an embodiment of technologic
 CourseBlock stands as a testament to the transformative power of friendship, expertise, and unyielding dedication. As it ushers in a new era of learning, powered by blockchain, CourseBlock paves the way for a future where education knows no bounds and transactions are as transparent as they are secure.
 
 # Live Demo
- [CourseBlock]([poetic-kulfi-399c26.netlify.app](https://650bf395735a512c635ac10b--capable-raindrop-1b2f48.netlify.app/)).
+ [CourseBlock](https://650bf395735a512c635ac10b--capable-raindrop-1b2f48.netlify.app).
 
 # Watch The Video Of My The Project 
  [CourseBlock_Youtube](https://youtu.be/8X_k--4iZjk).
