@@ -1,0 +1,21 @@
+.Yo2{
+    border: 1px solid white;
+    border-radius: 20px;
+    overflow: hidden;
+   
+}
+
+.videoHead2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom:100px;
+
+}
+.videoHead2 h1{
+    color: white;
+    text-align: center;
+}
+
+

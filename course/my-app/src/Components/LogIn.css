@@ -1,0 +1,87 @@
+.Login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 3px solid black;
+    padding: 50px;
+    box-shadow: 2px 2px 4px red;
+}
+
+.an{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainCon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container height to fill the viewport */
+    background: url('../img/background.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .Login input,
+.Login button {
+  margin: 5px;
+}
+
+.Reg{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    color: aliceblue;
+}
+
+.anP{
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+
+input{
+    padding: 10px;
+    width: 180px;
+    height: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    border: none;
+    text-align: center;
+    font-size: 12px;
+}
+.button2{
+    color: aliceblue;
+    background-color: blue;
+    padding: 6px;
+    border: none;
+    border-radius: 13px;
+    width: 200px;
+    cursor: pointer;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.Login label,h3{
+    color: white;
+    margin: 2px;
+    font-family: kanit;
+}
+
+form span{
+    color: blue;
+    cursor: pointer;
+    font-size: 25px;
+    font-family: kanit;
+}
+
+.para4{
+    color: white;
+    font-size: 10px;
+}

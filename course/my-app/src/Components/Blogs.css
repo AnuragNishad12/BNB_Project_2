@@ -1,0 +1,11 @@
+.H2{
+    text-align: center;
+    color: white;
+    font-family: kanit;
+}
+
+.nextBlog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
